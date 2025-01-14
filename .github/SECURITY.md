@@ -60,7 +60,7 @@ We’re here to vibe with you to keep this project **safe and sound** for everyo
 
 We ❤️ these tools to keep it tight:  
 - **Dependabot**: Spotting those sus dependencies. 🕵️‍♂️  
-- **Bandit** and **PyUp**: Regular audits to stay on point.  
+- **CodeQL**: Regular audits to stay on point.  
 
 Got a better tool idea? HMU! 💌  
 
